@@ -5,3 +5,4 @@
 2) [종합](https://github.com/honghyelim/code_up100/blob/main/code_up2.ipynb)
 3) [반복문](https://github.com/honghyelim/code_up100/blob/main/codeup_basic.ipynb)
 4) [배열](https://github.com/honghyelim/code_up100/blob/main/codeup_basic2.ipynb)
+5) [정렬](https://github.com/honghyelim/code_up100/blob/main/codeup_sort.ipynb)
