@@ -7,3 +7,10 @@
 4) [배열](https://github.com/honghyelim/code_up100/blob/main/codeup_basic2.ipynb)
 5) [정렬](https://github.com/honghyelim/code_up100/blob/main/codeup_sort.ipynb)
 6) [구조체](https://github.com/honghyelim/code_up100/blob/main/%EA%B5%AC%EC%A1%B0%EC%B2%B4.ipynb)
+7) [재귀함수]
+8) [탐색기반설계]
+9) [스택]
+10) [그리디]
+11) [DFS/BFS]
+12) [동적계획법]
+13) [이분탐색]
